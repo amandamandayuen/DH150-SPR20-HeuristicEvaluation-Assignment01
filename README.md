@@ -1,6 +1,5 @@
 # UX Design for Pandemic Information for the Public
-### DH150 Assignment01: Heuristic Evaluation
-### Amanda Ruan
+### DH150 Assignment01: Heuristic Evaluation by Amanda Ruan
 
 
 #### Overall description about the project and my motivation:
