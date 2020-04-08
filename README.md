@@ -1,5 +1,7 @@
 # UX Design for Pandemic Information for the Public
+### DH150 Assignment01: Heuristic Evaluation
 ### Amanda Ruan
+
 
 #### Overall description about the project and my motivation:
 In this assignment, I aim to focus on two public health mobile apps that feature information related to the pandemic COVID-19 for the public. One is the official app of CDC(Centers for Disease Control and Prevention), and the other app is called COVID-19Tracker, which is developed by HealthLynked Corp and updates worldwide COVID-19 information. Since early last quarter, I have been monitoring information related to the outbreak of the pandemic, including news, social media messages, and also relevant webpages, programs and apps developed for the public. CDC app and COVID-19Tracker app are two of the many apps I downloaded in the early days to track COVID-19 information. During this process of gaining information, I have observed many people, such as my friends and family, who were overwhelmed and confused by both the abundance of information on the Internet and the platforms that provide the information, as the platforms’ designs might not be user-friendly. I think it is important for the public to gain timely, clear, relevant, and true information through the uses of public health mobile apps and platforms, especially during this time. I hope I could contribute to the User Experience/Interface Design of these public health apps and propose suggestions for healthcare organizations to better help the public in acquiring pandemic-relevant information. 
