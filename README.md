@@ -30,6 +30,8 @@ When I first downloaded the CDC app, I expected to see the format and layout of 
 ## 4: Consistency and standards
 - In terms of external consistency, the CDC app does not contain a bottom tap bar that most other apps have. When I first opened the app, I was confused as I was expecting a bottom tap bar that might contain different features, such as search tool or menu categories. Then I realized the menu button is next to the CDC logo and is embedded within the navigation bar at the top, which was hard to tell at first glance. This could add to users’ cognitive load when users explore the app as it is not consistent with the standards followed by most other mobile platforms. While users might get used to the app design, the overall experience could also be less comfortable because of the lack of tap bar. This experience is also persistent. Another problem similar to this one is the home button problem I mentioned before in #1 Visibility of System Status. These problems could be solved by making the menu bar more noticeable or creating a bottom tap bar that contained menu and home buttons. Severity Rating (2).
 
+![0104](0104.jpeg)
+
 ## 5: Error prevention
 -	While the app provides appropriate and enough options for “undo”, it does not set any error prevention design before users committing the actions. For instance, on the homepage, there is a search bar at the top that allows users to type in information to search on the CDC’s website. When I was typing, the search bar did not prompt any suggestion for what I might be searching and did not correct any misspelling. So if users type a phrase wrong, it will still take users to the result page and users have to go back and change their search manually. Even though this is not a severe problem, it could waste users’ time in searching for information. Severity Rating (2). 
 
@@ -39,14 +41,20 @@ When I first downloaded the CDC app, I expected to see the format and layout of 
 ## 7: Flexibility and efficiency of use
 - The app does allow certain flexibility and efficiency for users, but the features might not be recognized and welcomed by novice users. The appropriate features included a “back to the top” icon when users are scrolling down along a page. An example of the drawback could be the filter feature. The filter button at the top of the navigation bar allows users to choose what article categories they want to see on their homepage and what they don’t want to see. However, someone who has not seen this feature before might not be able to know this app provides this flexibility. Thus, certain features might not be friendly to users who do not know the features. Severity Rating (2). 
 
+![0107](0107.png)
+
 ## 8: Aesthetic and minimalist design
 - The app follows a minimalist design as it does not contain any extra graphics or words. Section names are listed in short and plain text under the Menu page. Articles are displayed as blocks and each article was shown by a bold headline and a few lines of its content. However, some sections contained a lot of articles. It could be overwhelmed as the articles were not related to each other and were not sorted. The design of sections could be improved if there are filter feature, search feature, or sort feature that allow users to customize the displays of different articles. Severity Rating (2). 
 
 ## 9: Help users recognize, diagnose, and recover from errors
 - The app does not provide any features that help users to recognize and diagnose from errors. For instance, the search bar does not auto-correct users’ misspelling and does not make suggestion to users’ search and solve the problems. Users need to make sure they do not make any typing mistakes or misspelling a disease’s name. Severity Rating (3). 
 
+![0105](0105.jpeg)
+
 ## 10: Help and documentation
 - The about/information page was hard to find for users who are not familiar with the app, as it is at the bottom of the menu page. Users have to first figure out there is a menu button and then scroll down to the button to find the information page. In addition, the link to information page is small and the color is consistent with the other links above it, so it is not obvious enough and users might ignore it easily. Except for this flaw, the documentation was appropriate. It provides enough descriptions of the app and space for user feedbacks, as users can click on a link under the page and directly email the developer. Severity Rating (2). 
+
+![0110](0110.jpeg)
 
 ## Second App – COVID-19Tracker 
 ### Information about the app:
