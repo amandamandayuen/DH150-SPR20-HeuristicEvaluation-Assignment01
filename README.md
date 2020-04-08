@@ -82,7 +82,7 @@ Overall, this app provides appropriate degree of usability design while certain 
 ## 7: Flexibility and efficiency of use
 -	The app does provide certain degree of flexibility and efficiency. For instance, old users would know that they are able to change the country that displayed at the “DashBoard” page by clicking the “change” link. While the countries were listed in alphabetic order, a search bar allows users to type in the name of a country directly and skip scrolling up and down to search for the country. A novice user can also catch up with this feature. On the “Feed” page, users can both scroll by finger or drag the sidebar to go up and down along the page. These are examples of the flexibility and efficiency provided by the app.
 -	There are features that were not very friendly. The “Feed” page does not provide a back to top button. Under the map page, old users would know that they can view one type of cases at a time (such as WHO death) by clicking onto the label, while novice users might find it hard to navigate through the map at the first time. An information bar/icon/box could be added to allow new users to understand how to navigate through the map. Severity Rating (2).
-![0207](0207.png)
+<img src=”./0207.png” width=”50%”>
 
 
 ## 8: Aesthetic and minimalist design
